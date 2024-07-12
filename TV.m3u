@@ -1,29 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="SPORTS",CCTV-5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="SPORTS",CCTV-5+
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SPORTS",CCTV-16
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方",五星体育
+#EXTINF:-1 tvg-id="TSN-1" tvg-name="TSN-1" tvg-logo="https://asset.brandfetch.io/id7e0wvTzS/idtJVSDan5.png?updated=1718361081416" group-title="SPORTS",TSN-1
+https://z02.ubtvfans.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
+#EXTINF:-1 tvg-id="TSN-2" tvg-name="TSN-2" tvg-logo="https://asset.brandfetch.io/id7e0wvTzS/idtJVSDan5.png?updated=1718361081416" group-title="SPORTS",TSN-2
+https://z02.ubtvfans.com/live/rx3/1274/86de5062a3db4568ac97842cf4897b75/index.m3u8
+#EXTINF:-1 tvg-id="TSN-3" tvg-name="TSN-3" tvg-logo="https://asset.brandfetch.io/id7e0wvTzS/idtJVSDan5.png?updated=1718361081416" group-title="SPORTS",TSN-3
+https://z02.ubtvfans.com/live/rx3/1275/47f2960010cd38e38a1f224152c5733c/index.m3u8
+#EXTINF:-1 tvg-id="TSN-4" tvg-name="TSN-4" tvg-logo="https://asset.brandfetch.io/id7e0wvTzS/idtJVSDan5.png?updated=1718361081416" group-title="SPORTS",TSN-4
+https://z02.ubtvfans.com/live/rx4/1276/a7c1ab2dfcaaf81dcca82d246dcc8835/index.m3u8
+#EXTINF:-1 tvg-id="TSN-5" tvg-name="TSN-5" tvg-logo="https://asset.brandfetch.io/id7e0wvTzS/idtJVSDan5.png?updated=1718361081416" group-title="SPORTS",TSN-5
+https://z02.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-espn-1-461787.png?f=webp&w=256" group-title="SPORTS",ESPN
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45579&extension=ts
+
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SPORTS",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 
-#EXTINF:-1 group-title="国际",BBC
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="SPORTS",劲爆体育
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/index.m3u8?&encrypt=
+
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕体育
+http://710120.tv.netsite.cc/proxy/1168525477/1168525477.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="NEWS",CCTV-1
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="NEWS",CCTV-4
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS",CCTV-13
+https://epg.pw/stream/d8d86dede808358d248bad6c290eba43f63be54e467ea3865a0140b3fb9e5f25.m3u8
+
+#EXTINF:-1 tvg-id="CP24" tvg-name="CP24" tvg-logo="" group-title="NEWS",CP24
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVV5DIwC3CBUt4Ii0NnyXg/ts
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-bbc-2-461774.png" group-title="NEWS",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-cnn-5-461770.png" group-title="NEWS",CNN
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 group-title="国际",NBC 
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-nbc-282952.png" group-title="NEWS",NBC 
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
-#EXTINF:-1 group-title="国际",FOX
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-fox-23-282862.png" group-title="NEWS",FOX
 https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
 
-#EXTINF:-1 group-title="SPORTS",咪咕
-http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-
-#EXTINF:-1 group-title="SPORTS",TSN-1
-https://z02.ubtvfans.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
-#EXTINF:-1 group-title="SPORTS",TSN-5
-https://z02.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="地方",东方卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="地方",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8

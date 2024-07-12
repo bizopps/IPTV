@@ -11,24 +11,19 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方",五星体育
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 
-#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",NBC 
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 group-title="国际",FOX
 https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
 
-#EXTINF:-1 group-title="Sport",咪咕
+#EXTINF:-1 group-title="SPORTS",咪咕
 http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 
-#EXTINF:-1 group-title="Sport",TSN1
+#EXTINF:-1 group-title="SPORTS",TSN-1
 https://z02.ubtvfans.com/live/rx3/1273/f23f14947cefbb8616712f2b89963cf8/index.m3u8
-#EXTINF:-1 group-title="Sport",TSN5
+#EXTINF:-1 group-title="SPORTS",TSN-5
 https://z02.ubtvfans.com/live/rx3/1277/753c0a9016ea920d0345bb3f6715a5c0/index.m3u8

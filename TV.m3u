@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
+
+#EXTINF:-1 tvg-id="咪咕视频 𝟚" tvg-name="咪咕视频 𝟚" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="SPORTS",咪咕视频 𝟚
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5"  tvg-name="CCTV5"  tvg-logo="https://live.fanmingming.com/tv/CCTV5.png"  group-title="SPORTS",CCTV-5
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 
@@ -11,26 +17,14 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8
 #EXTINF:-1 tvg-id="BeIN SPORTS XTRA" tvg-name="BeIN SPORTS XTRA" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="SPORTS",BeIN SPORTS XTRA
 https://lnc-bein.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBC Sport" tvg-name="NBC Sport" tvg-logo="https://pbs.twimg.com/profile_images/1604922533698043908/9LAkL3xu_400x400.jpg" group-title="SPORTS",NBC Sport
-https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
-
 #EXTINF:-1 tvg-id="Fubo" tvg-name="Fubo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3CFz0ruSSzsonnkonmuL07bhQaGUpWSuEQ&s" group-title="SPORTS",Fubo
 https://lnc-fubo.tubi.video/master.m3u8
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SPORTS",五星体育
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="SPORTS",劲爆体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-
-#EXTINF:-1 tvg-id="咪咕体育4K" tvg-name="咪咕体育4K" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕体育4K
-http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
-
-#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕24小时体育台
-http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
-
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="NEWS",CCTV-1
@@ -42,19 +36,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS",CCTV-13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-bbc-2-461774.png" group-title="NEWS",BBC
-https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-cnn-5-461770.png" group-title="NEWS",CNN
-https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-nbc-282952.png" group-title="NEWS",NBC 
-https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-fox-23-282862.png" group-title="NEWS",FOX
-https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8
-#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/59/STVlogo.png/300px-STVlogo.png" group-title="NEWS",新闻综合
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 
+#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/59/STVlogo.png/300px-STVlogo.png" group-title="NEWS",新闻综合
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281

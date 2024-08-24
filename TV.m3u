@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
+#EXTINF:-1 tvg-id="咪咕视频 𝟙" tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频 𝟙
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
-#EXTINF:-1 tvg-id="咪咕视频 𝟚" tvg-name="咪咕视频 𝟚" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="SPORTS",咪咕视频 𝟚
+#EXTINF:-1 tvg-id="咪咕视频 𝟚" tvg-name="咪咕视频 𝟚" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频 𝟚
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5"  tvg-name="CCTV5"  tvg-logo="https://live.fanmingming.com/tv/CCTV5.png"  group-title="SPORTS",CCTV-5
@@ -35,6 +35,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS",CCTV-13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS",凤凰中文
+https://stream1.freetv.fun/fba28641ea09473d17e0a243d6d5fdcbc3498528c62a37603210b641ae71172f.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8

@@ -14,16 +14,16 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SPORTS",CCTV-16
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="SPORTS",beIN Sports 𝟙
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg" group-title="SPORTS",beIN Sports 𝟙
 https://test.zapi.us.kg/?id=beinsports
-#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="SPORTS",beIN Sports 𝟚
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg" group-title="SPORTS",beIN Sports 𝟚
 https://test.zapi.us.kg/?id=beinsports2
-#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="SPORTS",beIN Sports 𝟛
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg" group-title="SPORTS",beIN Sports 𝟛
 https://test.zapi.us.kg/?id=beinsports3
 
-#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusTx1QJLr0tl69ffY3n6jdj9CACRLwaAg6Q&s" group-title="SPORTS",ESPN 𝟙
+#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://cdn.worldvectorlogo.com/logos/espn.svg" group-title="SPORTS",ESPN 𝟙
 https://test.zapi.us.kg/?id=espn
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusTx1QJLr0tl69ffY3n6jdj9CACRLwaAg6Q&s" group-title="SPORTS",ESPN 𝟚
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/espn.svg" group-title="SPORTS",ESPN 𝟚
 https://test.zapi.us.kg/?id=espn2
 
 #EXTINF:-1 tvg-id="Astro SuperSport 1" tvg-name="Astro SuperSport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟙
@@ -66,6 +66,6 @@ https://test.zapi.us.kg/?id=phtv-cn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8
 
-#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/59/STVlogo.png/300px-STVlogo.png" group-title="NEWS",新闻综合
+#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="NEWS",新闻综合
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 

@@ -21,10 +21,19 @@ https://test.zapi.us.kg/?id=beinsports2
 #EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/600x600.webp?type=color_onBlack" group-title="SPORTS",beIN Sports 𝟛
 https://test.zapi.us.kg/?id=beinsports3
 
-#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC1oWEUEffEuK0JauISwSRaAoI3lGdAufCJQ&s" group-title="SPORTS",ESPN 𝟙
+#EXTINF:-1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusTx1QJLr0tl69ffY3n6jdj9CACRLwaAg6Q&s" group-title="SPORTS",ESPN 𝟙
 https://test.zapi.us.kg/?id=espn
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC1oWEUEffEuK0JauISwSRaAoI3lGdAufCJQ&s" group-title="SPORTS",ESPN 𝟚
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusTx1QJLr0tl69ffY3n6jdj9CACRLwaAg6Q&s" group-title="SPORTS",ESPN 𝟚
 https://test.zapi.us.kg/?id=espn2
+
+#EXTINF:-1 tvg-id="Astro SuperSport 1" tvg-name="Astro SuperSport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟙
+https://test.zapi.us.kg/?id=super-sports1
+#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-name="Astro SuperSport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟚
+https://test.zapi.us.kg/?id=super-sports2
+#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-name="Astro SuperSport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟛
+https://test.zapi.us.kg/?id=super-sports3
+#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-name="Astro SuperSport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟜
+https://test.zapi.us.kg/?id=super-sports4
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="SPORTS",五星体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523

@@ -16,8 +16,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/1.m3u8
 
 #EXTINF:-1 tvg-id="Astro SuperSport 1" tvg-name="Astro SuperSport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟙
 https://stream1.freetv.fun/e991a603d8fde83347394ce5519cd6ef790a7627e49851af584739150c6b36c0.ctv
-#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-name="Astro SuperSport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟚
-http://aliyuncoccdnct-xn.inter.iqiyi.com/tslive/l1/c64_ssports_20240905_mllv121v_hevc_1080p50_chst2_t4/0-TwiroP_NUnwYp_dv7IKca5r8ztDH3vdK8qag_Cti_0CELF7sRir_MPRUGpfGfpaR0HDiaI-8t8JAimNnnNVeTSKnpl0MQQZrnRkJftjunj4pXbkATJjKrqTM94V_ELGiKSjz-hW-576l3a0f7nI3-bqRvWJP58Xcxw5XrsVJJjQ8kHFzTY1jlHxIPNiPrMB_cyU3UbbgsXxGdBpWJ5RlOHRShjxdDMnVDqXORxPQj92PK-98jZlklFKcuMwgyR/1150b9b3cde25a63eb24c8419f1254ef8/c64_ssports_20240905_mllv121v_hevc_1080p50_chst2_t4.m3u8?key=0395f75a005e675b5630c2e8740fca94f&dis_t=1725527591&random=1&rand_hash=0&uuid=7d566f86-66d97627-3b2&qdpv=3&z=live_alicdn_coc_cn_southwest_ct&qd_bid=610&qd_sft=0&pv=0.2
 #EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-name="Astro SuperSport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟛
 https://stream1.freetv.fun/9c889f277da714c37fe824b59ee2cd110b17ba08513547c6db5aeb2da30cee10.ctv
 #EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-name="Astro SuperSport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqi7UqjOg3XE8OAa2B6cql_9qprJ0cdT2aZSbhj4WQeMPOc6yb4mC8f1hg8ReKpow6R68" group-title="SPORTS",Astro SuperSport 𝟜
@@ -39,17 +37,12 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS",CCTV-13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-bbc-2-461774.png" group-title="NEWS",BBC
-https://test.zapi.us.kg/?id=bbc-world-news
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-cnn-5-461770.png" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-fox-23-282862.png" group-title="NEWS",FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS",凤凰中文
-https://test.zapi.us.kg/?id=phtv-cn
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8

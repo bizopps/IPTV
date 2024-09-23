@@ -23,22 +23,31 @@ https://4gtv.livednow.us.kg/beesport/ESPN_Live_TV
 #EXTINF:-1 tvg-id="ESPN 𝟚" tvg-name="ESPN 𝟚" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS",ESPN 𝟚
 https://4gtv.livednow.us.kg/beesport/ESPN_2_Live_TV
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟙" tvg-name="TNT Sport 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS",TNT Sport 𝟙
+#EXTINF:-1 tvg-id="TNT Sport 𝟙" tvg-name="TNT Sport 𝟙" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS",TNT Sport 𝟙
 https://4gtv.livednow.us.kg/beesport/TNT_Sports_1
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟚" tvg-name="TNT Sport 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS",TNT Sport 𝟚
+#EXTINF:-1 tvg-id="TNT Sport 𝟚" tvg-name="TNT Sport 𝟚" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS",TNT Sport 𝟚
 https://4gtv.livednow.us.kg/beesport/TNT_Sports_2
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟛" tvg-name="TNT Sport 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS",TNT Sport 𝟛
+#EXTINF:-1 tvg-id="TNT Sport 𝟛" tvg-name="TNT Sport 𝟛" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS",TNT Sport 𝟛
 https://4gtv.livednow.us.kg/beesport/TNT_Sports_3
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟜" tvg-name="TNT Sport 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS",TNT Sport 𝟜
+#EXTINF:-1 tvg-id="TNT Sport 𝟜" tvg-name="TNT Sport 𝟜" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS",TNT Sport 𝟜
 https://4gtv.livednow.us.kg/beesport/TNT_Sports_4
+
+#EXTINF:-1 tvg-id="Fox Sports 𝟙" tvg-name="Fox Sports 𝟙" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS",Fox Sports 𝟙
+https://4gtv.livednow.us.kg/thetv/fox-sports-1
+
+#EXTINF:-1 tvg-id="Fox Sports 𝟚" tvg-name="Fox Sports 𝟚" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="SPORTS",Fox Sports 𝟚
+https://4gtv.livednow.us.kg/thetv/fox-sports-2
+
+#EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="SPORTS",CBS Sports Network
+https://4gtv.livednow.us.kg/thetv/cbs-sports-network
 
 #EXTINF:-1 tvg-id="咪咕视频 𝟙" tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频 𝟙
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5"  tvg-name="CCTV5"  tvg-logo="https://live.fanmingming.com/tv/CCTV5.png"  group-title="SPORTS",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="SPORTS",CCTV-5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="SPORTS",CCTV-5+
@@ -46,9 +55,6 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SPORTS",CCTV-16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-
-#EXTINF:-1 tvg-id="UFC 格斗精选" tvg-name="UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="SPORTS",UFC 格斗精选
-https://tiyu.567858.xyz/migu/788818804?sign=gAAAAABm0o35Nwh2HZHwiI7Tt71Wp7WPqGwgg8YcB7eijsQPyi0VC7RbIh19yMuBpBneFYk5JXPlWSRTa6Y8khTmNw0h_QZdt9VZ_rW8N-4PbVlf7BaI4duY57PgfsSYNITjl1uKBRDj9P1ygx6gx2GH3WsEwmJmaYJn9Og8WVU_oJ5qnJLPxr1WzRcYkmgCugMfvlv98ELOmUyTmj8KA4xbgoKnjpoHsg%3D%3D
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="NEWS",CCTV-1

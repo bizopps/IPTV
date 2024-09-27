@@ -1,101 +1,109 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="SPORTS",Sky Sports Football
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,http://content.stream-link.org/epg/guide.xml"
+
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="SPORTS", Sky Sports Football
 https://yiyeqicinima.livednow.us.kg/beesport/Sky_Sports_Football_Live_TV
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS",Sky Sports Premier League
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS", Sky Sports Premier League
 https://yiyeqicinima.livednow.us.kg/beesport/Sky_Sports_Premier_League
 
-#EXTINF:-1 tvg-id="LaLiga TV" tvg-name="LaLiga TV" tvg-logo="https://assets.livednow.com/logo/La-Liga-TV.png" group-title="SPORTS",LaLiga TV
+#EXTINF:-1 tvg-id="LaLiga TV" tvg-name="LaLiga TV" tvg-logo="https://assets.livednow.com/logo/La-Liga-TV.png" group-title="SPORTS", LaLiga TV
 https://yiyeqicinima.livednow.us.kg/beesport/La_Liga_TV_Live_TV
 
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS",SuperSport LaLiga
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
 https://yiyeqicinima.livednow.us.kg/beesport/SuperSport_LaLiga_Live_TV
 
-#EXTINF:-1 tvg-id="SuperSport Premier League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS",SuperSport Premier League
+#EXTINF:-1 tvg-id="SuperSport Premier League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
 https://yiyeqicinima.livednow.us.kg/beesport/SuperSport_Premier_League_Live_TV
 
-#EXTINF:-1 tvg-id="SuperSport Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS",SuperSport Football
+#EXTINF:-1 tvg-id="SuperSport Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
 https://yiyeqicinima.livednow.us.kg/beesport/SuperSport_Football_Live_TV
 
-#EXTINF:-1 tvg-id="ESPN 𝟙" tvg-name="ESPN 𝟙" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS",ESPN 𝟙
+#EXTINF:-1 tvg-id="ESPN 𝟙" tvg-name="ESPN 𝟙" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
 https://yiyeqicinima.livednow.us.kg/beesport/ESPN_Live_TV
 
-#EXTINF:-1 tvg-id="ESPN 𝟚" tvg-name="ESPN 𝟚" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS",ESPN 𝟚
+#EXTINF:-1 tvg-id="ESPN 𝟚" tvg-name="ESPN 𝟚" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
 https://yiyeqicinima.livednow.us.kg/beesport/ESPN_2_Live_TV
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟙" tvg-name="TNT Sport 𝟙" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS",TNT Sport 𝟙
+#EXTINF:-1 tvg-id="TNT Sport 𝟙" tvg-name="TNT Sport 𝟙" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 https://yiyeqicinima.livednow.us.kg/beesport/TNT_Sports_1
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟚" tvg-name="TNT Sport 𝟚" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS",TNT Sport 𝟚
+#EXTINF:-1 tvg-id="TNT Sport 𝟚" tvg-name="TNT Sport 𝟚" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
 https://yiyeqicinima.livednow.us.kg/beesport/TNT_Sports_2
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟛" tvg-name="TNT Sport 𝟛" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS",TNT Sport 𝟛
+#EXTINF:-1 tvg-id="TNT Sport 𝟛" tvg-name="TNT Sport 𝟛" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT Sport 𝟛
 https://yiyeqicinima.livednow.us.kg/beesport/TNT_Sports_3
 
-#EXTINF:-1 tvg-id="TNT Sport 𝟜" tvg-name="TNT Sport 𝟜" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS",TNT Sport 𝟜
+#EXTINF:-1 tvg-id="TNT Sport 𝟜" tvg-name="TNT Sport 𝟜" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
 https://yiyeqicinima.livednow.us.kg/beesport/TNT_Sports_4
 
-#EXTINF:-1 tvg-id="Fox Sports 𝟙" tvg-name="Fox Sports 𝟙" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS",Fox Sports 𝟙
+
+#EXTINF:-1 tvg-id="Fox Sports 𝟙" tvg-name="Fox Sports 𝟙" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
 https://yiyeqicinima.livednow.us.kg/thetv/fox-sports-1
 
-#EXTINF:-1 tvg-id="Fox Sports 𝟚" tvg-name="Fox Sports 𝟚" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="SPORTS",Fox Sports 𝟚
+#EXTINF:-1 tvg-id="Fox Sports 𝟚" tvg-name="Fox Sports 𝟚" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="SPORTS", Fox Sports 𝟚
 https://yiyeqicinima.livednow.us.kg/thetv/fox-sports-2
 
-#EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="SPORTS",CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="SPORTS", CBS Sports Network
 https://yiyeqicinima.livednow.us.kg/thetv/cbs-sports-network
 
-#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS",MLB
+#EXTINF:-1 tvg-id="MLB" tvg-name="MLB" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB
 https://yiyeqicinima.livednow.us.kg/thetv/mlb-network
 
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS",NBA TV
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
 https://yiyeqicinima.livednow.us.kg/thetv/nba-tv
 
-#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS",NFL Network
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS", NFL Network
 https://yiyeqicinima.livednow.us.kg/thetv/nfl-network
 
-#EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS",NHL Network
+#EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
 https://yiyeqicinima.livednow.us.kg/thetv/nhl-network
 
-#EXTINF:-1 tvg-id="咪咕视频 𝟙" tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS",咪咕视频 𝟙
+
+#EXTINF:-1 tvg-id="咪咕视频 𝟙" tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="SPORTS", 咪咕视频 𝟙
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
-#EXTINF:-1 tvg-id="咪咕 NBA 经典" tvg-name="咪咕 NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="SPORTS",咪咕 NBA 经典
+#EXTINF:-1 tvg-id="咪咕 NBA 经典" tvg-name="咪咕 NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="SPORTS", 咪咕 NBA 经典
 https://api.livednow.org/migu/788815380?sign=gAAAAABm0o351uiOupLM5iyfdJGRZApALeUz9iFqoEyG8Ptg0P9t0X1w3LbTj78CdhSGDg26_wzfCh8pjT1bVifD8lBeKQqCWdTrtQLHT52WItasfpk9uOQIHnj7mjTqAn_RXybpIxOLOpQ0WnkPWTc_T-pNlnsJuWFO1uUN8Urdn3r-wU9Lfl2GVZsiRchAhtoIc6hGDvQDoO9WzhYfcfl07Z_FEc7AqA%3D%3D
 
-#EXTINF:-1 tvg-id="咪咕 UFC 格斗精选" tvg-name="咪咕 UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="SPORTS",咪咕 UFC 格斗精选
+#EXTINF:-1 tvg-id="咪咕 UFC 格斗精选" tvg-name="咪咕 UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="SPORTS", 咪咕 UFC 格斗精选
 https://api.livednow.org/migu/788818804?sign=gAAAAABm0o35Nwh2HZHwiI7Tt71Wp7WPqGwgg8YcB7eijsQPyi0VC7RbIh19yMuBpBneFYk5JXPlWSRTa6Y8khTmNw0h_QZdt9VZ_rW8N-4PbVlf7BaI4duY57PgfsSYNITjl1uKBRDj9P1ygx6gx2GH3WsEwmJmaYJn9Og8WVU_oJ5qnJLPxr1WzRcYkmgCugMfvlv98ELOmUyTmj8KA4xbgoKnjpoHsg%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="SPORTS",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="SPORTS", CCTV-5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="SPORTS",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="SPORTS", CCTV-5+
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SPORTS",CCTV-16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SPORTS", CCTV-16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="NEWS",CCTV-1
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="NEWS", CCTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="NEWS",CCTV-4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="NEWS", CCTV-4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS",CCTV-13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS", CCTV-13
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
 https://console.567852.xyz/stream/tvb/pcc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-bbc-2-461774.png" group-title="NEWS",BBC
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS", 东方卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="NEWS", BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-cnn-5-461770.png" group-title="NEWS",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="NEWS", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://cdn.iconscout.com/icon/free/png-512/free-fox-23-282862.png" group-title="NEWS",FOX
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="NEWS", FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS",东方卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+
 

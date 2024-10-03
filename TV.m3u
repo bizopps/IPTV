@@ -78,15 +78,14 @@ https://epg.pw/stream/b786ec1800a5643b2d5d40858739023ccedfe27bc149fa6eee46de30f0
 https://epg.pw/stream/42fec7509fc70842d130f32c3535037f901381f57549e4122369e3b2d02d1d1c.m3u8
 
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="SPORTS", CCTV-16
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
-
+https://epg.pw/stream/4d5449c8fe787897c9d3d28c3eb9fc309c7a012ca19f3cc97a579dad2c51d8f9.m3u8
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="NEWS", CCTV-1
 https://epg.pw/stream/607c5648b5a826285f1e94ceab76066c767e2ba5e1623b753a6ab2f4e380199d.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="NEWS", CCTV-4
-https://epg.pw/stream/4d9040822715735361a51e4371b833c479b922e76de42c7a6bf720ae04da2f5b.m3u8
+https://epg.pw/stream/79b5552bc4bff80a98a387f4ca76071ec3e66c9357224cb4f26b66229d15b567.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="NEWS", CCTV-13
 https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
@@ -95,8 +94,7 @@ https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="NEWS", 东方卫视
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
-
+https://epg.pw/stream/6d6f6f803e2f0e40dfe9f22fd1cd8884f09ac3bfc3070ffe612716bd8239c4e0.m3u8
 
 #EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="NEWS", BBC
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298

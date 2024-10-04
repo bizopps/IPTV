@@ -21,12 +21,6 @@ https://4gtv.hg16888.vip/beesport/SuperSport_Premier_League_Live_TV
 #EXTINF:-1 tvg-id="SuperSport Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
 https://4gtv.hg16888.vip/beesport/SuperSport_Football_Live_TV
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
-https://4gtv.hg16888.vip/thetv/espn
-
-#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
-https://4gtv.hg16888.vip/beesport/ESPN_2_Live_TV
-
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
 https://4gtv.hg16888.vip/beesport/TNT_Sports_1
 
@@ -39,6 +33,15 @@ https://4gtv.hg16888.vip/beesport/TNT_Sports_3
 #EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
 https://4gtv.hg16888.vip/beesport/TNT_Sports_4
 
+
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
+https://4gtv.hg16888.vip/thetv/tennis-channel
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
+https://4gtv.hg16888.vip/thetv/espn
+
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
+https://4gtv.hg16888.vip/thetv/espn2
 
 #EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
 https://4gtv.hg16888.vip/thetv/fox-sports-1

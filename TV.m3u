@@ -1,69 +1,4 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,http://content.stream-link.org/epg/guide.xml"
-
-#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="SPORTS", Sky Sports Football
-https://4gtv.hg16888.vip/beesport/Sky_Sports_Football_Live_TV
-
-#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="SPORTS", Sky Sports Premier League
-https://4gtv.hg16888.vip/beesport/Sky_Sports_Premier_League
-
-#EXTINF:-1 tvg-id="Sky-Sports-Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="SPORTS", Sky Sports Tennis
-https://4gtv.hg16888.vip/beesport/Sky_Sports_Tennis
-
-#EXTINF:-1 tvg-id="LaLiga TV" tvg-name="LaLiga TV" tvg-logo="https://assets.livednow.com/logo/La-Liga-TV.png" group-title="SPORTS", LaLiga TV
-https://4gtv.hg16888.vip/beesport/La_Liga_TV_Live_TV
-
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
-https://4gtv.hg16888.vip/beesport/SuperSport_LaLiga_Live_TV
-
-#EXTINF:-1 tvg-id="SuperSport Premier League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
-https://4gtv.hg16888.vip/beesport/SuperSport_Premier_League_Live_TV
-
-#EXTINF:-1 tvg-id="SuperSport Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
-https://4gtv.hg16888.vip/beesport/SuperSport_Football_Live_TV
-
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="SPORTS", TNT Sport 𝟙
-https://4gtv.hg16888.vip/beesport/TNT_Sports_1
-
-#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="SPORTS", TNT Sport 𝟚
-https://4gtv.hg16888.vip/beesport/TNT_Sports_2
-
-#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="SPORTS", TNT Sport 𝟛
-https://4gtv.hg16888.vip/beesport/TNT_Sports_3
-
-#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="SPORTS", TNT Sport 𝟜
-https://4gtv.hg16888.vip/beesport/TNT_Sports_4
-
-
-#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
-https://4gtv.hg16888.vip/thetv/tennis-channel
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="SPORTS", ESPN 𝟙
-https://4gtv.hg16888.vip/thetv/espn
-
-#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
-https://4gtv.hg16888.vip/thetv/espn2
-
-#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="SPORTS", Fox Sports 𝟙
-https://4gtv.hg16888.vip/thetv/fox-sports-1
-
-#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="SPORTS", Fox Sports 𝟚
-https://4gtv.hg16888.vip/thetv/fox-sports-2
-
-#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="SPORTS", CBS Sports Network
-https://4gtv.hg16888.vip/thetv/cbs-sports-network
-
-#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="SPORTS", MLB Network
-https://4gtv.hg16888.vip/thetv/mlb-network
-
-#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
-https://4gtv.hg16888.vip/thetv/nba-tv
-
-#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="SPORTS", NFL Network
-https://4gtv.hg16888.vip/thetv/nfl-network
-
-#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
-https://4gtv.hg16888.vip/thetv/nhl-network
-
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="咪咕 NBA 经典" tvg-name="咪咕 NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="SPORTS", 咪咕 NBA 经典
 https://api.livednow.org/migu/788815380?sign=gAAAAABm0o351uiOupLM5iyfdJGRZApALeUz9iFqoEyG8Ptg0P9t0X1w3LbTj78CdhSGDg26_wzfCh8pjT1bVifD8lBeKQqCWdTrtQLHT52WItasfpk9uOQIHnj7mjTqAn_RXybpIxOLOpQ0WnkPWTc_T-pNlnsJuWFO1uUN8Urdn3r-wU9Lfl2GVZsiRchAhtoIc6hGDvQDoO9WzhYfcfl07Z_FEc7AqA%3D%3D
@@ -218,18 +153,12 @@ http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contenti
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕直播 38" tvg-name="咪咕直播 38" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 38
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕直播 39" tvg-name="咪咕直播 39" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 39
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕直播 40" tvg-name="咪咕直播 40" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 40
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕直播 41" tvg-name="咪咕直播 41" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 41
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕直播 42" tvg-name="咪咕直播 42" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 42
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕直播 43" tvg-name="咪咕直播 43" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 43
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕直播 44" tvg-name="咪咕直播 44" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 44
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="咪咕直播 45" tvg-name="咪咕直播 45" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 45
-http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 

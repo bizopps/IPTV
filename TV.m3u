@@ -24,9 +24,6 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
 #EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="SPORTS", Tennis
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
-#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="SPORTS", SuperSport LaLiga
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/13868
-
 #EXTINF:-1 tvg-id="SuperSport Premier League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
 http://unity-gaming.net:8080/testforflorin/h3jR9MKh/924
 
@@ -85,6 +82,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="NEWS", FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+
 
 
 #EXTINF:-1 tvg-id="咪咕视频 𝟙" tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕视频 𝟙
@@ -141,6 +141,29 @@ https://epg.pw/stream/4d5449c8fe787897c9d3d28c3eb9fc309c7a012ca19f3cc97a579dad2c
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="epg.pw", 东方卫视
 https://epg.pw/stream/6d6f6f803e2f0e40dfe9f22fd1cd8884f09ac3bfc3070ffe612716bd8239c4e0.m3u8
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中国itv", CCTV-1
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="中国itv", CCTV-4
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="中国itv", CCTV-5
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="中国itv", CCTV-5+
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中国itv", CCTV-13
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中国itv", CCTV-16
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="中国itv", 东方卫视
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
+
 
 
 #EXTINF:-1 tvg-id="咪咕直播 1" tvg-name="咪咕直播 1" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕直播", 咪咕直播 1

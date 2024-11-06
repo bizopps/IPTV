@@ -25,10 +25,13 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport Premier League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="SPORTS", SuperSport Premier League
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/924
+https://p13.lol/centra_live_a_b/n907iOxHult0/793896.ts
 
 #EXTINF:-1 tvg-id="SuperSport Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="SPORTS", SuperSport Football
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/926
+https://p13.lol/centra_live_a_b/n907iOxHult0/793891.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟙
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="SPORTS", ESPN 𝟚
 https://b.trydarius.shop/espn2.m3u8
@@ -68,6 +71,12 @@ https://p13.lol/centra_live_a_b/n907iOxHult0/1860307.ts
 
 #EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="SPORTS", beIN Sports 4
 https://p13.lol/centra_live_a_b/n907iOxHult0/1860308.ts
+
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="SPORTS", NBA TV
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7226/index.m3u8
+
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="SPORTS", NHL Network
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7225/index.m3u8
 
 
 #EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="NEWS", 凤凰中文

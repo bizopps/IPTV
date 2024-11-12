@@ -49,19 +49,19 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:C0:94:29&stream=61346&exten
 https://p13.lol/centra_live_a_b/n907iOxHult0/1223129.ts
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 1
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47440 
+http://212.102.60.231/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 2
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47442 
+http://212.102.60.231/TSN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 3
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47444 
+http://212.102.60.231/TSN_3/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 4
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47446 
+http://212.102.60.231/TSN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="SPORTS", TSN 5
-http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57295 
+http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="SPORTS", beIN Sports 1
 https://p13.lol/centra_live_a_b/n907iOxHult0/1860305.ts
@@ -114,6 +114,21 @@ http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57435
 
 #EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-logo="https://i.ibb.co/LzgBHJm/cbc-canada.png" group-title="NEWS", CBC
 http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57306 
+
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="NEWS", TSN 1
+http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47440 
+
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="NEWS", TSN 2
+http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47442 
+
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="NEWS", TSN 3
+http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47444 
+
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="NEWS", TSN 4
+http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/47446 
+
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="NEWS", TSN 5
+http://1tv41.icu:8080/sm@synergyplangroup.ca/I0RfrFOHo5/57295 
 
 
 #EXTINF:-1 tvg-id="咪咕视频 𝟙" tvg-name="咪咕视频 𝟙" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动IPv6", 咪咕视频 𝟙
